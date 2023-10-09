@@ -57,4 +57,4 @@ for categoria in df.Categorias.unique():
 df_final[df_final['Categorias'] == df.Categorias.unique()[0]].plot(x='ds')
 
 ```
-![output](https://github.com/getrolucas/moving-average-forecast/blob/master/moving-forecast-example.png)
+![output](https://github.com/getrolucas/moving-average-forecast/blob/master/docs/images/moving-forecast-example.png)
